@@ -8,5 +8,5 @@ Mainnet = new ChainName("Main");
 Testnet = new ChainName("Testnet");
 Regtest = new ChainName("Regtest");
 ```
-## blockstream RPC AOI
+## blockstream RPC API
 https://github.com/Blockstream/esplora/blob/master/API.md
